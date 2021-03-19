@@ -1,0 +1,32 @@
+.imageSection {
+    background-image: url(images/vinta-bike.jpg);
+    background-size: cover; 
+    background-position: center;   
+    height: 500px;
+}
+
+.titleSection {
+    background-color:white;
+    opacity: 0.8;
+    border-color: black;
+    border-style: double;  
+    border-spacing: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.spaceBorder {
+    border-style: solid;
+    border-color: teal;
+    padding: 10px;
+}
+
+.postArea {
+   background-color:rgb(252, 242, 229);
+
+
+}
+
+.titles{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
